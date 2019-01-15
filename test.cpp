@@ -50,4 +50,5 @@ int main() {
 		if (tmp2[i] < tmp2[val]) val = i;
 	}
 	cout << i << " " << tmp2[i];
+	//now i have changed this code so what will happen?
 }
